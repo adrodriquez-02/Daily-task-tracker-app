@@ -1,0 +1,1 @@
+This project is a Python GUI Daily Task Tracker developed in PyCharm. It allows users to add, delete, and clear tasks while tracking the total number of tasks. The interface is built using tkinter with interactive buttons and alerts. Libraries used include tkinter and messagebox
